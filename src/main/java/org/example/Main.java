@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Student {
+class Student {..............
     public static String[] nama = new String[10];
     public static String[] fakultas = new String[10];
     public static String[] nim = new String[10];
@@ -120,7 +120,7 @@ class Admin {
 public class Main {
     //data buku
     public static String[] idBuku = new String[] {"11223", "33445", "55667"};
-    public static String[] namaBuku = new String[] {"kalkulus", "Crypto Tranding Guide", "Atomic Habits"};
+    public static String[] namaBuku = new String[] {"kalkulus", "Crypto Tranding", "Atomic Habits"};
     public static String[] author = new String[] {"King of King S", "Academy Crypto", "James Clear"};
     public static String[] category = new String[] {"Horor", "Study", "Life"};
     public static int[] stock = new int[] {3, 0, 1};
